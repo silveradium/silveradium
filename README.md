@@ -19,7 +19,7 @@ When I’m not soldering circuits or training neural networks, I’m expressing 
 ---
 
 
-📫 Let’s Connect  
+### 📫 Let’s Connect  
 💼 LinkedIn: [linkedin.com/in/agra-navaratne](https://www.linkedin.com/in/agra-navaratne)  
 📧 Email: agranavaratne@gmail.com  
 
