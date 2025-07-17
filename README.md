@@ -3,7 +3,7 @@
 
 # Agra Navaratne
 
-I’m an Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, with a passion for fusing Robotics, AI, and Biology to build impactful, real-world technologies. 
+I’m an Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, with a passion for fusing Robotics, AI, and Biology to build impactful, real-world technologies. My research interests are Robotics, Machine Learning, Biomedical Applications, Digital Signal Processing, Embedded Systems, Analog Circuit Design, Micro-controller Programming.
 
 When I’m not soldering circuits or training neural networks, I’m expressing creativity through visual art and music — disciplines that inspire empathy and design thinking in my engineering journey.
 
