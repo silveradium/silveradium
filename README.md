@@ -3,7 +3,7 @@
 
 # Agra Navaratne
 
-I’m an Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, with a passion for fusing embedded systems, AI, and hardware design to build impactful, real-world technologies. I specialize in rapid prototyping of biomedical and assistive devices — combining sensors, firmware, and mobile interfaces with a maker's mindset.
+I’m an Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, with a passion for fusing Robotics, AI, and Biology to build impactful, real-world technologies. 
 
 When I’m not soldering circuits or training neural networks, I’m expressing creativity through visual art and music — disciplines that inspire empathy and design thinking in my engineering journey.
 
