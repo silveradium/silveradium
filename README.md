@@ -1,16 +1,27 @@
-## Hi there 👋
+![Banner](./banner.png)
 
-<!--
-**silveradium/silveradium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Agra Navaratne
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, with a passion for fusing embedded systems, AI, and hardware design to build impactful, real-world technologies. I specialize in rapid prototyping of biomedical and assistive devices — combining sensors, firmware, and mobile interfaces with a maker's mindset.
+
+When I’m not soldering circuits or training neural networks, I’m expressing creativity through visual art and music — disciplines that inspire empathy and design thinking in my engineering journey.
+
+---
+
+### 🔬 Areas of Interest
+- Robotics
+- Machine Learning
+- Biomedical Applications
+- Machine Vision
+
+
+---
+
+
+📫 Let’s Connect  
+💼 LinkedIn: [linkedin.com/in/agra-navaratne](https://www.linkedin.com/in/agra-navaratne)  
+📧 Email: agranavaratne@gmail.com  
+
+<!-- Optionally, add a visitor counter or GitHub stats here -->
+
